@@ -1,0 +1,11 @@
+[
+  {
+    "id": "AlchemyChainTestnet-202512",
+    "displayName": "Alchemy Chain Testnet",
+    "network_name": "AlchemyChainTestnet",
+    "rpc_url": "https://rpc.testnet.alchemychain.com",
+    "chain_id": 202512,
+    "explorer_url": "https://scan.testnet.alchemychain.com",
+    "evm_version": "paris"
+  }
+]
